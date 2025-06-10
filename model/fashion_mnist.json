@@ -1,6 +1,6 @@
 [
   {
-    "name": "flatten_1",
+    "name": "flatten_2",
     "type": "Flatten",
     "config": {
       "activation": null
